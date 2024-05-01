@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educational Multimedia</title>
+</head>
+<body>
+    <figure>
+        <img src="C:\Users\edwin\Documents\coding_temple\frontendcore\Lesson2_HTML_elements\media_html\OIP.jpg" alt="Solar Sytem Visual Map">
+        <figcaption>Solar system</figcaption>
+    </figure>
+</body>
+</html>
